@@ -1,0 +1,31 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>dm-sandymotelconstruction-3.5.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames>
+    <Item>nodes723.ynd</Item>
+    <Item>nodes722.ynd</Item>
+    <Item>nodes691.ynd</Item>
+    <Item>nodes755.ynd</Item>
+    <Item>nodes724.ynd</Item>
+    <Item>nodes754.ynd</Item>
+    <Item>nodes787.ynd</Item>
+    <Item>nodes756.ynd</Item>
+    <Item>nodes753.ynd</Item>
+    <Item>nodes786.ynd</Item>
+    <Item>nodes721.ynd</Item>
+    <Item>nodes690.ynd</Item>
+  </YndFilenames>
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
