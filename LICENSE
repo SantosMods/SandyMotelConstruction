@@ -1,59 +1,81 @@
-SantosMods.dev – License Agreement for [YMAP Name]  
-Version: 1.0  
-Effective Date: 5/11/2025
+SandyMotelConstruction – License Agreement  
+Version: 1.0 
+Effective Date: 8/13/2025
 
-This YMAP modification (“Work”) is the copyrighted intellectual property of SantosMods.dev. All rights are strictly reserved unless explicitly granted in this license.
+This project ("Work") is the exclusive intellectual property of SantosMods.dev. All rights are reserved unless explicitly stated otherwise in this License Agreement.
+
+This License Agreement applies to all current, past, and future versions, releases, updates, expansions, or components of SandyMotelConstruction, superseding all previous versions.
+
+---
 
 1. PERMITTED USE
 
-You are granted a limited, personal, non-commercial, non-transferable, and revocable license to:
+You are granted a non-exclusive, non-transferable, non-commercial, royalty-free, worldwide license to:
 
-- Download and use the original, unmodified version of this YMAP solely for personal gameplay within Grand Theft Auto V.
-- Share the original, unmodified file provided that proper credit is given to SantosMods.dev and a link is provided to an official release page.
+- Use this mod on public or private FiveM servers for gameplay or server operation.
+- Modify, customize, or adapt this mod solely for personal or public use, provided all of the following conditions are met:
+  - Full, clear, and visible credit is always given to SantosMods.dev in any server, distribution, or display where this Work or any modification thereof is used.
+  - All copies, modified or unmodified, must include this License Agreement in full, unaltered.
+  - A link or clear written reference to the official source must be included wherever distributed.
+  - All modified versions must include a clear in-game notice, file naming convention (e.g., _MODIFIED_BY_), and visible text in any config or metadata file stating the nature of modifications and that it is unofficial.
 
-2. RESTRICTIONS
+- Share original or modified versions under the following conditions:
+  - No payment, donation, subscription, or financial contribution of any kind may be required for access, use, or download.
+  - No portion of this Work may be used to solicit or generate financial benefit, directly or indirectly.
+  - Modified versions must clearly indicate they are modified versions and not official releases from SantosMods.dev.
 
-You are expressly prohibited from:
+**Definition:**  
+*Financial benefit* includes any direct or indirect revenue, donations, ad impressions, monetized server perks, exclusive access, or any compensation tied to the use or distribution of this Work.
 
-- Modifying, editing, translating, adapting, reverse-engineering, or creating derivative works from this YMAP.
-- Extracting any assets, models, props, or data for reuse in any other work, resource, or modification.
-- Reuploading, hosting, or distributing this YMAP or any derivative or altered version on any platform not listed in Section 3.
-- Selling, licensing, monetizing, or otherwise commercially exploiting this YMAP, including but not limited to using it as a donation perk, on paid FiveM servers, or in any for-profit environment.
-- Removing, altering, obscuring, or falsifying any credit, attribution, or metadata associated with this YMAP.
+---
 
-3. OFFICIAL RELEASE LOCATIONS
+2. PROHIBITED USE
 
-This YMAP is officially released exclusively on the following platforms:
+The following actions are strictly prohibited:
 
-https://gtapolicemods.com  
-https://www.gta5-mods.com  
-https://www.lcpdfr.com  
-https://github.com/SantosMods  
+- Selling, licensing, sublicensing, or monetizing this Work or any derivative version.
+- Providing exclusive access to this Work or any derivative version in exchange for money, donations, subscription tiers, or any form of compensation or benefit.
+- Packaging or redistributing this Work or any portion thereof on any third-party website, platform, file host, or marketplace without written permission from SantosMods.dev.
+- Private redistribution, including direct file transfers, limited-access links, or gated downloads, is also prohibited without written permission.
+- Removing, altering, obscuring, or minimizing credits, licensing information, or attribution related to SantosMods.dev.
+- Extracting, repurposing, or reusing any assets, models, code, or components for unrelated projects without prior written permission.
+- Exclusive access models such as beta testing, early releases, or preview versions in exchange for financial contributions are strictly prohibited.
 
-Any other distribution source is unauthorized and may contain modifications or unauthorized copies.
+---
 
-4. SUPPORT AND ERROR HANDLING
+3. SUPPORT
 
-We provide support for errors or installation issues encountered with this YMAP. Users seeking support should contact us directly through the following channels:
+SantosMods.dev will provide full support, including installation assistance, troubleshooting, and configuration help, to any legitimate user or server operator who requests assistance under the terms of this License Agreement.
 
-Email: system@santosmods.dev  
-Website: https://santoshosting.dev
+**Definition:**  
+*A legitimate user* is defined as any individual or server operator who fully complies with all terms of this License Agreement. Any violation voids access to official support.
 
-5. COPYRIGHT ENFORCEMENT AND DMCA
+---
 
-Unauthorized reproduction, redistribution, modification, or misuse of this YMAP constitutes a violation of copyright law. SantosMods.dev reserves the right to enforce its rights under applicable copyright laws, including but not limited to:
+4. SCOPE AND COVERAGE
 
-- Issuing Digital Millennium Copyright Act (DMCA) takedown notices to platforms hosting unauthorized, modified, or derivative copies.
-- Pursuing legal action in applicable jurisdictions to recover damages and prevent further infringement.
+This License Agreement applies fully to all current, past, and future versions, releases, updates, expansions, or components of SandyMotelConstruction unless a separate written license agreement is issued by SantosMods.dev.
 
-We actively monitor and will take necessary action to protect our intellectual property.
+---
 
-6. DISCLAIMER
+5. ENFORCEMENT
 
-This YMAP is provided “as is” without warranty of any kind, express or implied. SantosMods.dev shall not be liable for any damages, issues, or conflicts arising from the use of this YMAP or any unauthorized modifications.
+Violations of this License Agreement may result in enforcement actions including, but not limited to, takedown requests, suspension of access, DMCA filings, and legal action under applicable intellectual property and contract law.
+
+---
+
+6. WARRANTY DISCLAIMER
+
+This Work is provided "as is" without any warranties, guarantees, or liabilities. SantosMods.dev is not responsible for any damages, losses, or conflicts resulting from the installation, use, or modification of this Work.
+
+---
 
 7. ACCEPTANCE
 
-By downloading, installing, or using this YMAP, you acknowledge and agree to be bound by this License Agreement in full and will comply with its terms. Unauthorized use constitutes a breach of this license and may result in enforcement actions.
+By downloading, installing, using, modifying, or distributing this Work, you expressly acknowledge, accept, and agree to comply in full with all terms and conditions set forth in this License Agreement.
 
-For permissions, licensing, or partnership inquiries, contact us at the email or website listed above.
+---
+
+8. CONTACT
+
+For official support, written permissions, or licensing inquiries, contact SantosMods.dev directly at system@santosmods.dev.
