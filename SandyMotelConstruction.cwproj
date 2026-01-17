@@ -1,0 +1,36 @@
+<CodeWalkerProject>
+  <Name>SandyMotelConstruction</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>sandymotelconstruction.ymap</Item>
+    <Item>lr_cs4_06_strm_2.ymap</Item>
+    <Item>lr_cs4_roads_critical_0.ymap</Item>
+    <Item>lr_cs4_roads_critical_2.ymap</Item>
+    <Item>lr_cs4_roads_long_0.ymap</Item>
+    <Item>lr_cs4_roads_strm_2.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames>
+    <Item>nodes690.ynd</Item>
+    <Item>nodes691.ynd</Item>
+    <Item>nodes721.ynd</Item>
+    <Item>nodes722.ynd</Item>
+    <Item>nodes723.ynd</Item>
+    <Item>nodes724.ynd</Item>
+    <Item>nodes753.ynd</Item>
+    <Item>nodes754.ynd</Item>
+    <Item>nodes755.ynd</Item>
+    <Item>nodes756.ynd</Item>
+    <Item>nodes786.ynd</Item>
+    <Item>nodes787.ynd</Item>
+  </YndFilenames>
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
