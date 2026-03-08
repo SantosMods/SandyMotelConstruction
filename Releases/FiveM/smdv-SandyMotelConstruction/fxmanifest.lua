@@ -10,6 +10,9 @@ version '5.0'
 
 dependency '/assetpacks'
 
+data_file 'DLC_ITYP_REQUEST' 'stream/bzzz_scrap_items.ytyp'
+data_file 'DLC_ITYP_REQUEST' 'stream/pnwsigns.ytyp'
+
 this_is_a_map 'yes'
 
 server_script 'server.lua'
